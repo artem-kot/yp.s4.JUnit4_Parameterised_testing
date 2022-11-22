@@ -25,7 +25,7 @@ public class AccountTest {
                 {"EndSpace ", false},
                 {"NoSpace", false},
                 {"O k", true},
-                {"Tooooooooo loooooong", false},
+                {"Tooooooooo loooooong", false}
         };
     }
 
